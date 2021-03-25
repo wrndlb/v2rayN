@@ -8,3 +8,7 @@
 ### Requirements  
 - Microsoft [.NET Framework 4.6](https://docs.microsoft.com/zh-cn/dotnet/framework/install/guide-for-developers) or higher
 - Project V core [https://github.com/v2fly/v2ray-core/releases](https://github.com/v2fly/v2ray-core/releases)
+
+
+# v2rayN 下载客户端url
+-- https://github.com/2dust/v2rayN/releases
